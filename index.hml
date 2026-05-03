@@ -1,0 +1,89 @@
+<html>
+<head>
+  <title>Фан сайт Роккі</title>  
+  <link rel="stylesheet" href="style.css"/>
+ </head> 
+  
+    
+<body>
+    <header>
+        <!-- Шапка: назва сайту, логотип, навігація -->
+    <h1>Фан  Сайт фільму Роккі</h1>
+     <nav>
+     <a href="" >Головна </a>
+     <a href="#f">Про фільм</a>
+     <a href="https://moviestape.lat/katalog_filmiv/drama/1977-rokk.html">Переглянути</a> 
+     <a href="#act">Актори </a>
+     </nav>
+         
+    </header>
+    
+    
+    
+    <main>
+        <!-- Основна інформація сайту --> 
+    <h2 id="f"> Про фільм</h2>
+    <p>«Роккі» (1976) — це культова спортивна драма, що стала символом незламності та «американської мрії». Фільм приніс світову славу Сильвестру Сталлоне та став однією з найприбутковіших стрічок в історії кіно. </p>
+
+
+ <ul>
+<li> Основна інформація </li>
+<li>Рік виходу: 1976</li>
+<li>Режисер: Джон Евілдсен</li>
+<li>Автор сценарію та виконавець головної ролі: Сильвестр Сталлоне</li>
+<li>Жанр: спортивна драма</li>
+<li>Бюджет: близько $1,1 млн</li>
+<li>Касові збори: понад $225 млн </li>
+ </ul>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuGFOyTn_KkxSV4p0rNnORZesnRa28IdQTmA&s" width="200px" height="200px"/>
+<img src="https://focus.ua/static/storage/thumbs/x600/0/fd/kka6zx-4862595fc56328536125d12f5573bfd0.jpg?v=9606_1" width="200px" height="200px" />
+<img src="https://kor.ill.in.ua/m/610x385/2520659.jpg" width="200px"height="200px"/>
+<h2 id="act"> Актори</h2>
+<section> 
+<div> 
+<h4> Сильвестр Сталлоне  </h4>
+<h5>Роккі Бальбоа </h5>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sylvester_Stallone_-_1977.jpg/250px-Sylvester_Stallone_-_1977.jpg"width="175px"height="175px"/>
+ </div>
+ <div> 
+ <h4>Карл Везерс</h4>
+ <h5>Аполло Крід</h5>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdxUxo4ht6dNC_U9YY_Ait5-_yyNsxefofw&s"width="175px"height="175px"/>
+</div>
+<div> 
+ <h4>  Талія Шайр </h4> 
+ <h5>Едріан Бальбоа</h5>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGZ2xiy45DOlwwlcY3FXezPwrmaVgc2HZfA&s"width="175px"height="175px"/>
+  </div>
+  </section>
+  <section>
+      <div>
+      <h4>Берт Янг</h4> 
+      <h5>Поллі Пенніно</h5>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNN1K9PN5R3wfThoLgzkL7GIoTUdvz8hpQg&s"width="175px"height="175px"/>
+      </div>
+      <div>
+      <h4>Бреджерс Мередіт </h4>
+      <h5>Міккі Гольдміпл </h5>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1xUdNQ3DJMNyeaq9epEQznr2EGqopd-2HQ&s" width="175px" height="175px"/>
+      </div>
+      <div>
+       <h4>Тоні Бертон</h4> 
+       <h5>Дюк Еверз</h5>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2SnlLZyzF7diaktOcOFT0HXqfpBQNx0CBA&s"width="175px" height="175px"
+  </section>
+  
+ </main>
+ <p>Роккі це легендарний фільм про бокс він в наших серцях</p>
+ 
+    <footer>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuH7c5cLpGehi0b4iQk90fXUzC9p7Ebla13w&s" width="75px" height="75px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvgcxOWo4ZKZISQA9N0ihcs6u-p5Iqrkmag&s" width="75px" height="75px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1280px-Facebook_f_logo_%282019%29.svg.png" width="75px" height="75px"
+        <!-- Підвал з додатковою інформацією та підписом АВТОРА -->
+        
+      
+    </footer>
+</body>
+
+</html>
